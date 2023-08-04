@@ -28,14 +28,6 @@ a{
   color: antiquewhite;
 }
 
-.login{
-  /*background-color:rgb(38, 32, 99) ;
-  display: flex;*/
-  padding: 0 5px;
-  background-image: linear-gradient(150deg,#9500ff, rgb(55, 25, 224),#00DDFF);
-  border-radius: 8px;
-  
-}
 
 main{
   display: flex;

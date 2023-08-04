@@ -1,8 +1,8 @@
 import React from 'react'
 
-function Anchor( {href, title }) {
+function Anchor( {href, title, clase}) {
   return (
-    <a href={href}>{ title }</a>
+    <a href={href} className={clase}>{ title }</a>
   )
 }
 
