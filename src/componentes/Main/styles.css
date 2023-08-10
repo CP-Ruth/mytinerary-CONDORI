@@ -1,0 +1,10 @@
+main{
+    display: flex;
+    align-items: center;
+}
+
+img{
+    display: inline-block;
+    width:150px;
+    margin: 0 15px;
+}

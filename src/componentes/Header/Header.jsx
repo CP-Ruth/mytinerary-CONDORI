@@ -1,7 +1,10 @@
-import React from 'react'
 import Nav from './Nav'
+import './styles.css'
+
 
 function Header() {
+  
+
   return (
     <header>
       <p>My Tinerary</p>
