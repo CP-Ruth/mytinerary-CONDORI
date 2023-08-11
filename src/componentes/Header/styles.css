@@ -8,6 +8,7 @@ header{
     display: flex;
     justify-content: space-between;
     color: antiquewhite;
+   background-color: rgb(59, 46, 179) ;
 }
 
 nav{

@@ -1,0 +1,13 @@
+footer{
+    display: flex;
+    justify-content: center;
+    color: rgb(196, 190, 183);
+    background-color: rgb(59, 46, 179);
+    padding: 0px;
+}
+
+.socialmedia{
+display: flex;
+
+}
+
